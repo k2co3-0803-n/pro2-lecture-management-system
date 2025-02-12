@@ -1,5 +1,5 @@
-# Primitive Management System for University
-![]
+# Primitive Lecture Management System for University
+![画像の説明](./rakuta.png)
 
 # How to use
 Compile all java files
