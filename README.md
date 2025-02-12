@@ -1,3 +1,6 @@
+# Primitive Management System for University
+![]
+
 # How to use
 Compile all java files
 ```java
